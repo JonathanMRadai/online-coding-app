@@ -1,5 +1,5 @@
 # Online Coding App
-in order to run the app localy, go to server folder via:
+in order to run the app localy, go to server folder via:\n
 cd server 
 then type in the terminal:
 node server.js
